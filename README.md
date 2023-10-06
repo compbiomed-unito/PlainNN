@@ -1,9 +1,9 @@
-# PlainNet
+# PlainNN
 
-## A simple feed-forward neural network outperforms Graph Convolutional Networks for patient classification and Biomarker Identification through Multi-Omics Integration
+## A simple feed-forward neural network can outperform Graph Convolutional Networks for patient classification through Multi-Omics Integration
 
-### PlainNet Architecture
-![PlainNet Architecture](Figures/PlainNet.jpg)
+### PlainNN Architecture
+![PlainNN Architecture](Figures/PlainNN.jpg)
 
 ### Files and folders
 *BRCA*: Folder containing datasets for BRCA classification task, originally from the MOGONET repository.
@@ -14,7 +14,7 @@
 
 *MOGONET_Trials/Train_Test_ROSMAP.ipynb*: Code for 1000 runs cross-validation procedure on ROSMAP, adapted from the MOGONET repository.
 
-*PlainNet/PlainNet_EarlyFusion.ipynb*: Code for the PlainNet model, performing early fusion on input data.
+*PlainNN/PlainNN_EarlyFusion.ipynb*: Code for the PlainNN model, performing early fusion on input data.
 
 ### References
 
